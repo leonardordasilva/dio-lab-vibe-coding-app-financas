@@ -70,9 +70,41 @@ O PRD completo está em [`docs/PROMPT.md`](docs/PROMPT.md). Ele consolida o prob
 
 *Resumo visual das etapas registradas durante o desenvolvimento; não é uma captura da conversa.*
 
+## Telas do app (mockups ilustrativos)
+
+Estas ilustrações representam as principais áreas do produto com conteúdo fictício. São mockups baseados no PRD, não capturas reais do aplicativo.
+
+<details>
+<summary>Início</summary>
+
+![Mockup ilustrativo da tela Início](docs/media/mockups/inicio.svg)
+
+</details>
+
+<details>
+<summary>Transações</summary>
+
+![Mockup ilustrativo da tela Transações](docs/media/mockups/transacoes.svg)
+
+</details>
+
+<details>
+<summary>Planejar</summary>
+
+![Mockup ilustrativo da tela Planejar](docs/media/mockups/planejar.svg)
+
+</details>
+
+<details>
+<summary>Assistente</summary>
+
+![Mockup ilustrativo da tela Assistente](docs/media/mockups/assistente.svg)
+
+</details>
+
 ## Interações com o Replit
 
-Não havia capturas de tela ou gravações das conversas com o Replit nos arquivos disponíveis neste checkout. Além disso, as rotas públicas do build atual exibiram um erro de renderização na prévia estática; por isso, não incluí essas telas de erro como se fossem telas do produto.
+Não havia capturas de tela ou gravações reais das conversas com o Replit nos arquivos disponíveis neste checkout. As telas acima são mockups identificados como ilustrações; as rotas públicas do build atual falharam na prévia estática, então não foram apresentadas como capturas reais.
 
 ## Reflexão
 
