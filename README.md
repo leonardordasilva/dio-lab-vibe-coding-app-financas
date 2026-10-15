@@ -64,9 +64,15 @@ Finanças Pessoais é a proposta de um app web responsivo, pensado primeiro para
 
 O PRD completo está em [`docs/PROMPT.md`](docs/PROMPT.md). Ele consolida o problema, o público-alvo, a experiência desejada, as funcionalidades e os limites do app.
 
+## Histórico visual
+
+![Linha do tempo dos marcos do projeto](docs/media/historico-do-projeto.svg)
+
+*Resumo visual das etapas registradas durante o desenvolvimento; não é uma captura da conversa.*
+
 ## Interações com o Replit
 
-Não havia capturas de tela ou gravações das conversas com o Replit nos arquivos disponíveis neste checkout. Para manter o registro fiel, nenhum print ou vídeo foi inventado. Adicione as capturas e gravações reais em `docs/media/` para que possam ser exibidas aqui.
+Não havia capturas de tela ou gravações das conversas com o Replit nos arquivos disponíveis neste checkout. Além disso, as rotas públicas do build atual exibiram um erro de renderização na prévia estática; por isso, não incluí essas telas de erro como se fossem telas do produto.
 
 ## Reflexão
 

@@ -1,0 +1,16 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "j4RxvYt3n69syygxxvviM"
+uri = "file://docs/media/historico-do-projeto.svg"
+type = "image"
+title = "Histórico visual do projeto"
+description = "Linha do tempo dos marcos registrados para o app de finanças pessoais."
+logical_id = "37071527-b393-42dc-b6c2-44385e9ccebd"
+content_hash = "sha256:f5883831c8a3b0e3f0b37c1481679e923fa14c5a5d483157229c5001db94310b"
+size = 6636
+mtime_ms = 1792103896339
+storage_uri = "gcs://replit-rams-assets-picard/rams/assets/repl:2464e30f-b12c-47e8-af82-867e7c6e9bdf/37071527-b393-42dc-b6c2-44385e9ccebd/e68b4de8-3759-4cb0-b6c8-e4e35a7e5eca"
+storage_version_token = "1792103965682942"
+content_type = "image/svg+xml"
